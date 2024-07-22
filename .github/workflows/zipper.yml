@@ -3,8 +3,8 @@ name: Resourcepack Zipper
 
 on:
   push:
-    paths:
-      - pack.mcmeta
+    branches:
+      - main
 
 jobs:
   build:
