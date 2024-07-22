@@ -1,9 +1,4 @@
 ﻿{
-  "animation": {
-    "frametime": 1  }
-}
-
-{
     "animation": {
         "interpolate": true,
         "width": 512,
