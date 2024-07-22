@@ -1,0 +1,7 @@
+﻿ {
+    "pack": {
+        "pack_format": 15,
+        "description": "§cG§6a§em§ai§bn§9g §fTexture! for deepslate diamond ore.",
+		"supported_formats": [18, 22, 32, 34]
+    }
+}
