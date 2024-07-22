@@ -1,0 +1,2 @@
+# gaming_ds_diamond_tex
+深層ダイヤモンド鉱石用ゲーミングテクスチャ
