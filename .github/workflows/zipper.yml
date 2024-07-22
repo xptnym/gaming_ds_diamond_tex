@@ -1,7 +1,10 @@
 ﻿
 name: Resourcepack Zipper
 
-on: [push]
+on:
+  push:
+    paths:
+      - pack.mcmeta
 
 jobs:
   build:
