@@ -24,7 +24,7 @@ jobs:
       - name: Create ZIP file
         run: |
           COMMIT_ID=$(git rev-parse --short HEAD)
-          ZIP_NAME="ancient_debris_tex.zip"
+          ZIP_NAME="gaming_ds_diamond_tex.zip"
           echo "ZIP_NAME=${ZIP_NAME}" >> $GITHUB_ENV
           zip -r "${ZIP_NAME}" .
 
